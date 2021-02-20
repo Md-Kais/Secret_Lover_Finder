@@ -95,3 +95,7 @@ h6{
   display: flex;
   justify-self: center;
 }
+h1{
+  color: coral;
+  text-align: center;
+}
